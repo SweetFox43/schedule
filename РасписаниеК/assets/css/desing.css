@@ -1,0 +1,19 @@
+.fix{
+
+    width: 60%;
+    margin: 0 auto;
+} 
+.shir{
+    margin: 0 auto;
+}
+.ski{
+    background-color: #CEE0ED;
+    padding: 64px;
+    border-radius: 35px;
+    width: fit-content;
+    font-size: 32px;
+    margin: 0 auto;
+    text-align: center;
+    border: 2px solid #5487CF;
+    margin-top: 20px;
+}
